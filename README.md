@@ -1,6 +1,6 @@
 # property error
 
-This repo demonstrates an error `web_sys::CssStyleDeclaration::set_property` produces.
+This repo demonstrates an example of changing a CSS property from Rust 🦀.
 
 ## License
 

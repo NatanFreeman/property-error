@@ -6,4 +6,5 @@ edition = "2021"
 [dependencies]
 yew="0.19.3"
 gloo-utils="0.1.4"
-web-sys = {version="0.3.58", features=["CssStyleDeclaration"]}
+web-sys = {version="0.3.58", features=["Document", "CssStyleDeclaration","CssRule","CssStyleRule","StyleSheetList","StyleSheet","CssRuleList", "CssStyleSheet" ]}
+wasm-bindgen="0.2.81"

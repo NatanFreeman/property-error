@@ -3,5 +3,5 @@
 }
 
 #style {
-    color: red;
+    color: var(--color);
 }
